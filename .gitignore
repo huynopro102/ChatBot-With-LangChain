@@ -1,1 +1,7 @@
 .env
+venv3.9.10
+volumes
+__pycache__
+codexplore.py
+main_module.py
+seed_data.ipynb
